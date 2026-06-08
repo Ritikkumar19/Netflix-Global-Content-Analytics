@@ -54,4 +54,4 @@ Last Updated: June 2026
 
 ### Netflix Dashboard Overview
 
-![Netflix Dashboard](images/dashboard_overview.png)
+![Netflix Dashboard](project/images/dashboard_overview.png)
