@@ -55,3 +55,15 @@ Last Updated: June 2026
 ### Netflix Dashboard Overview
 
 ![Netflix Dashboard](project/images/dashboard_overview.png)
+
+### Genre Analysis
+
+![Genre Analysis](project/images/genre_analysis.png)
+
+### Country Analysis
+
+![Country Analysis](project/images/country_analysis.png)
+
+### KPI Dashboard
+
+![KPI Dashboard](project/images/kpi_analysis.png)
